@@ -1,0 +1,3 @@
+ssh bandit3@bandit.labs.overthewire.org -p 2220
+cat inhere/.hidden
+pIwrPrtPN36QITSp3EQaw936yaFoFgAB
